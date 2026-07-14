@@ -1,0 +1,6 @@
+{
+  "name": "AI Mind Map & Document Studio",
+  "description": "An elegant full-stack collaborative workspace featuring AI-powered mind mapping, a rich Markdown editor, and specialized creative agents powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
